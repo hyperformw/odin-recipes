@@ -1,0 +1,38 @@
+body {
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+background-color: burlywood;
+text-align: center;
+font-size: x-large;
+}
+
+h1 {
+font-size: 60px;
+}
+
+div.container {
+text-align: center;    
+}
+
+ul.myul {
+background-color: brown;
+font-weight: bold;
+font-size: larger;
+padding: 0;
+display: inline-block;
+text-align: left;
+}
+
+a {
+color: white;
+}
+
+ul {
+color: white;
+}
+
+li {
+margin: auto;
+padding: 8px;
+text-align: center;
+}
